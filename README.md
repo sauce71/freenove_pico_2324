@@ -1,2 +1,2 @@
 # freenove_pico_2324
-Freenove bok oppgaver
+Freenove bok med tutorial og oppgaver
